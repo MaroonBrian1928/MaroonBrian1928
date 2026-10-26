@@ -1,6 +1,6 @@
 ### hey, I'm Brian 👋
 
-I'm in Minneapolis and build stuff in Rust, Python and TypeScript.
+I'm in Minneapolis and build stuff in Rust, Python, and TypeScript.
 
 **Podcasts**
 - [Podly](https://github.com/podly-pure-podcasts/podly_pure_podcasts): ad-block for podcasts. I help maintain it.
