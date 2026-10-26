@@ -11,4 +11,3 @@ I'm in Minneapolis and build stuff in Rust, Python, and TypeScript.
 **Other stuff**
 - [lunatune](https://github.com/MaroonBrian1928/lunatune): one command that tunes a Mac for Moonlight game streaming over Wi-Fi to cut the stutter, then puts everything back when you quit.
 - [RunningBuddy](https://github.com/MaroonBrian1928/RunningBuddy): a local-first training dashboard with Strava sync and LLM coaching.
-- [brians-skills](https://github.com/MaroonBrian1928/brians-skills): skills for Claude Code.
